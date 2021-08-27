@@ -11,9 +11,7 @@
   
 </p>
 
-<p align="center">
-  <img src="relative layout.jpg" width="300" />
-</p>
+
 
 ## About the Projects
 
