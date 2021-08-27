@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constraint_Layout</string>
+    <string name="post_image">post_image</string>
+    <string name="profile_pic">profile pic</string>
+    <string name="text_content">Mohamed Abdelaziz \nSBME, Cairo University</string>
+    <string name="menu">menu</string>
+    <string name="post_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="num_comments">100 Comment</string>
+    <string name="numViews">2.5M Views</string>
+</resources>
